@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**AFNANPARAMBIL/AFNANPARAMBIL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muhammed Afnan P 👋
 
-Here are some ideas to get you started:
+🎓 BCA - AI & Data Analytics Student  
+📍 Kochi, Kerala, India  
+💻 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm passionate about Python, data analytics,
+and building useful real-world applications.
+
+## Skills
+- Python
+- SQL and MySQL
+- Microsoft Excel
+- Git and GitHub
+- Data Analytics (Learning)
+
+## Currently Learning
+- Python Programming
+- Database Management
+- Data Analysis and Visualization
+
+## My Goals
+- Build real-world projects
+- Improve my programming skills
+- Become a professional Data Analyst
+
+## Connect With Me
+[LinkedIn](https://www.linkedin.com/in/muhammed-afnan-p)
