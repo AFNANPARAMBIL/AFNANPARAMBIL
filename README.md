@@ -44,12 +44,19 @@ I'm a **BCA student specializing in AI & Data Analytics**, interested in Python,
 
 | Area | What I'm Working On |
 | --- | --- |
-| 🐍 Python Practice | Lists, loops, functions and problem-solving exercises |
+| 🐍 [Python Practice](https://github.com/AFNANPARAMBIL/python-practice) | 30 beginner Python programs covering calculations, conditions, lists and problem solving |
 | 🗄️ SQL & MySQL | Databases, tables, queries and relational concepts |
 | 📊 Data Analytics | Building foundations in Excel, data analysis and visualization |
 | 💡 Real-world Applications | Exploring useful software ideas and practical development |
 
-*Project repository links and demos will be added as they become available.*
+**Next portfolio milestones:** Build a SQL sales analysis project, an Excel dashboard, and a Python data analysis notebook. These are planned projects, not completed work.
+
+## 🎯 Data Analyst Portfolio Roadmap
+
+- [x] Publish Python practice programs with documentation and tests
+- [ ] Build a MySQL sales analysis project with reproducible queries
+- [ ] Build an Excel dashboard with clear business metrics
+- [ ] Analyze a dataset using Python and explain the findings
 
 ## 📈 GitHub Activity
 
